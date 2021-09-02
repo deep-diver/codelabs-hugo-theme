@@ -17,3 +17,7 @@ google-codelab:not([theme="minimal"]) google-codelab-step .instructions {
     margin-bottom: 45px;
     border-radius: 4px;
 }
+
+google-codelab:not([theme="minimal"]) google-codelab-step .about-card {
+    box-shadow: none;
+}
