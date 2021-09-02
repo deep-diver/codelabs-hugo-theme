@@ -4,7 +4,7 @@ var innerBeforeIntruction = document.querySelectorAll(".instructions")[0];
 var innerBefore = steps[0].querySelectorAll(".instructions .inner")[0];
 
 var innerNewInstruction = document.createElement("div");
-innerNewInstruction.className = "instructions";
+innerNewInstruction.className = "instructions about-card";
 
 var innerTitle = document.createElement("div");
 innerTitle.className = "inner inner-title";
